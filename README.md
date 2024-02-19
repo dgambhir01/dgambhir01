@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Dheeraj Gambhir. I have 17 years of experience in the IT industry. Currently working as a Sr.Manager-SDET (Quality Engineering) at *Tavant*. 
 - 👀 🌱 Here are my blogs [1](https://softwaretestingjournal.com/blog) and [2](https://testersdigest.blogspot.com/), where I pen down my thoughts about test automation covering primarily Selenium, Java, Rest Assured, Karate, Maven, TestNG, Postman, Newman, Jenkins, Git, Azure DevOps, etc.
 
-- 📫 You can find me on <a href="https://www.linkedin.com/in/dheerajgambhir/" rel="nofollow"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a> or write to me at dheeraj.gambhir@gmail.com
+- 📫 You can find me on <a href="https://www.linkedin.com/in/dheerajgambhir/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" width="40" height="40" style="max-width: 100%;"> </a> or write to me at dheeraj.gambhir@gmail.com
 
 <br>
 <br>
